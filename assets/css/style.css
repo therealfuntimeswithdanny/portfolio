@@ -332,7 +332,6 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
   border-radius: 20px;
 }
 
@@ -520,6 +519,10 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 20px;
+}
+
+a {
+  color: white;
 }
 
 .service-item {
